@@ -1,3 +1,3 @@
 # WasmHint
 
-We will provide operational instructions and the built dataset after the paper is accepted.
+We will provide complete operational guidelines once the paper is accepted.
